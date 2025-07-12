@@ -17,7 +17,6 @@ const anotherArray = [1,2,[4,5,6],7,[6,[3,9]]]
 console.log(anotherArray.flat(3))
 
 // Few more methods
-
 console.log(Array.isArray('Aman'))
 
 // Array.from convert strings to arrays
